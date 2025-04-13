@@ -40,4 +40,13 @@ cd Synapses-25
     pip install datasets scikit-learn pandas numpy matplotlib seaborn
     ```
 
+## 📓 Google Colab Notebooks
+
+In case some of the notebooks in this repository do not work properly, you can access the working versions using the links below:
+
+- [Notebook 1](https://colab.research.google.com/drive/1N2N58pT68NdIglxk2Rx0QujB8mr_4P_X?usp=sharing)
+- [Notebook 2](https://colab.research.google.com/drive/1XWflc61wj_BFvd2J0HXnODiO8WOrkls6?usp=sharing)
+
+Feel free to open them in Google Colab and run the code directly!
+
 
