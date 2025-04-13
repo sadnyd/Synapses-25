@@ -30,8 +30,8 @@ The goal is to provide a practical implementation of common uplift techniques an
 
 1.  **Clone the repository:**
     ```bash
-    git clone <(https://github.com/sadnyd/)>
-    cd <Synapses-25>
+   git clone https://github.com/sadnyd/Synapses-25.git
+   cd Synapses-25
     ```
 
 2.  **Install required libraries:**
