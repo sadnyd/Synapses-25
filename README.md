@@ -28,11 +28,11 @@ The goal is to provide a practical implementation of common uplift techniques an
 
 ## Setup / Installation
 
-1.  **Clone the repository:**
-    ```bash
-   git clone https://github.com/sadnyd/Synapses-25.git
-   cd Synapses-25
-    ```
+1.  **Open your terminal and run:**
+```bash
+git clone https://github.com/sadnyd/Synapses-25.git
+cd Synapses-25
+```
 
 2.  **Install required libraries:**
     It's recommended to use a virtual environment.
