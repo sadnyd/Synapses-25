@@ -30,8 +30,8 @@ The goal is to provide a practical implementation of common uplift techniques an
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <repository-folder>
+    git clone <(https://github.com/sadnyd/)>
+    cd <Synapses-25>
     ```
 
 2.  **Install required libraries:**
@@ -40,9 +40,4 @@ The goal is to provide a practical implementation of common uplift techniques an
     pip install datasets scikit-learn pandas numpy matplotlib seaborn
     ```
 
-## Usage
 
-Run the main Python script from your terminal:
-
-```bash
-python your_script_name.py
