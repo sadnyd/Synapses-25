@@ -49,4 +49,7 @@ In case some of the notebooks in this repository do not work properly, you can a
 
 Feel free to open them in Google Colab and run the code directly!
 
+## 📑 Detailed Report
+
+For a comprehensive explanation and analysis of the project, please refer to the **`Uplift Modeling Analysis Report.txt`** file included in this repository.
 
